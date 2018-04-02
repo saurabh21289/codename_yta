@@ -1,0 +1,5 @@
+google-images-download==1.4.3
+imageio==2.3.0
+numpy==1.14.2
+Pillow==5.0.0
+selenium==3.11.0
