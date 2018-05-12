@@ -1,3 +1,5 @@
+ffmpeg-python==0.1.11
+future==0.16.0
 google-images-download==2.0.4
 imageio==2.3.0
 numpy==1.14.2
